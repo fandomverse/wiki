@@ -18,7 +18,7 @@ Updated March 24, 2022, 5:30PM
 Axie Infinity is a Play-to-Earn game focused on trading and battling with creatures known as "Axies" (characters based on axolotl), which are digitized as NFTs. It was developed by Vietnamese studio Sky Mavis  as a player-owned economy game using the Ethereum-base cryptocurrency. The game was released on March 2018, with huge growing success. Currently, it is a $3Billion valuation with some players have made a living from breeding and selling the digital creatures. The most expensive Axie ever sold $820,000. As of September 2021, the majority of players were based in the Philippines.
 
 Platforms: Android, iOS, Windows, Mac OS
-
+![1](https://user-images.githubusercontent.com/102338772/160502151-e606c173-24ac-4796-8b94-490bb3f63163.jpg)
 
 ---
 
@@ -27,25 +27,39 @@ As a Play-to-Earn game, Axie Infinity has an economy build on the Ethereum block
 Below are the currency you will need to be familiar with.
 
 I. The Axie creatures are NFTs -meaning they are ERC-721
+![tokenomics-1](https://user-images.githubusercontent.com/102338772/160502216-b3e9608c-5027-49a7-bd16-5350b871d6b6.jpg)
+
 II. The game uses two types of utility tokens, ERC-20
+
 
 AXS token
 It is used for:
 - Governance: AXS token holders will be able to stake their tokens and participate in governance voting.
 - Staking: Players will be able to stake their AXS to earn weekly rewards.
 - Payment: Players can use the AXS token to play games and conduct payments.
+![tokenomics-2](https://user-images.githubusercontent.com/102338772/160502187-a3c0b6c0-923a-42c7-a030-abbe10a6cd6b.jpg)
 
 [Where to get]()
 
+
+SLP (Smooth Love Potion)
+- Tokens are earned by playing the Axie Infinity game. 
+- This digital asset serves a replacement for experience points. 
+- Used to breed new Axies. Guide to Breeding
+![tokenomics-3](https://user-images.githubusercontent.com/102338772/160502194-c92d73d1-8b45-480b-8822-7d3036621a90.jpg)
+
+[Where to get]()
 
 ---
 
 ## What are Axies
 Axies a digital pet where players battle, raise, and trade fantasy creatures called Axies. Players can engage in a 3v3 turn base auto-battle using cards as supports. The system is set up similar to classic RPG of using different roles like tanks, DPS and support role with blend of Pokemon elemental strengths and weakness. 
+![what-are-axies](https://user-images.githubusercontent.com/102338772/160502200-887f2f13-0a84-4e6b-a838-e78651b59286.jpg)
 
 
 ### Rarity
 All Axies are unique NFT, meaning their value differs greatly based on traits, stats and quantity. These plays a pivotal role in-game performance and the market value of each creatures.
+![stats](https://user-images.githubusercontent.com/102338772/160502642-b914484d-18a9-4ef2-a8cc-2feb35e42765.jpg)
 
 ### Stats
 Each Axie has 4 stats, Health, Morale, Skill, and Speed.
@@ -62,6 +76,11 @@ Speed- Speed determines turn order. Faster Axies attack first. If two Axies have
 
 An Axie’s stats are dependent on two variables: its class and its body parts.
 [Stat Guide]()
+
+
+![bodyparts](https://user-images.githubusercontent.com/102338772/160502732-6f1d1d04-392b-477b-9473-2945a310ae1e.jpg)
+
+
 
 ### Body Parts
 Each Axie has 6 body parts: eyes, ears, horn, mouth, back, and tail.
