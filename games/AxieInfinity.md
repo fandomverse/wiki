@@ -129,10 +129,11 @@ Install **MetaMask** your Chrome browser. \
 Skip this step if you have a MetaMask already.\
 [MetaMask Guide]()
 
-2. Go to the **Axies Marketplace** to scope out 3 Axie for your team\
+2. ![how-2](https://user-images.githubusercontent.com/102338772/160533078-f2d2bc16-742b-4ebb-b02b-b06771803d9d.jpg)
+Go to the **Axies Marketplace** to scope out 3 Axie for your team\
 Add the cost of the 3 for the next step.\
 [Guide to build a starting team]()
-![how-2](https://user-images.githubusercontent.com/102338772/160533078-f2d2bc16-742b-4ebb-b02b-b06771803d9d.jpg)
+
 
 3. Purchase Ethereum for the transaction\
 Head to your **MetaMask**, input the total cost for the 3 Axie to buy from USD to ETH.
