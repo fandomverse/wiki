@@ -129,39 +129,42 @@ Install **MetaMask** your Chrome browser. \
 Skip this step if you have a MetaMask already.\
 [MetaMask Guide]()
 
-2. ![how-2](https://user-images.githubusercontent.com/102338772/160533078-f2d2bc16-742b-4ebb-b02b-b06771803d9d.jpg)
+2. ![how-2](https://user-images.githubusercontent.com/102338772/160533078-f2d2bc16-742b-4ebb-b02b-b06771803d9d.jpg) \
 Go to the **Axies Marketplace** to scope out 3 Axie for your team\
 Add the cost of the 3 for the next step.\
 [Guide to build a starting team]()
 
-
-3. Purchase Ethereum for the transaction\
+3. ![how-3](https://user-images.githubusercontent.com/102338772/160533077-35833a03-0b35-4ce0-b43b-97f511bbad41.jpg) \ 
+Purchase Ethereum for the transaction\
 Head to your **MetaMask**, input the total cost for the 3 Axie to buy from USD to ETH.
-![how-3](https://user-images.githubusercontent.com/102338772/160533077-35833a03-0b35-4ce0-b43b-97f511bbad41.jpg)
 
-4. Install Ronin Wallet for your Chrome
+4. ![how-4](https://user-images.githubusercontent.com/102338772/160533074-5d5b676a-6e53-439f-9485-f80959e04fd9.jpg) \
+Install Ronin Wallet for your Chrome
 After installation, head back to **Marketplace** and purchase your 3 Axies using Ronin Wallet.\
 [Guide to Ronin Wallet]()
-![how-4](https://user-images.githubusercontent.com/102338772/160533074-5d5b676a-6e53-439f-9485-f80959e04fd9.jpg)
 
-5. Head to the **Official Axie Infinity Site** and click **"Play Now"**\
-Download the client for the platform to play on. 
-![how-5](https://user-images.githubusercontent.com/102338772/160533071-50eaeb2c-788c-4c96-beb2-c4207d84b629.jpg)
-6. Setup your **Mavis Hub** to install the game. 
+5. ![how-5](https://user-images.githubusercontent.com/102338772/160533071-50eaeb2c-788c-4c96-beb2-c4207d84b629.jpg) \
+Head to the **Official Axie Infinity Site** and click **"Play Now"**\
+Download the client for the platform to play on.
+
+6. ![how-6](https://user-images.githubusercontent.com/102338772/160533067-26e17505-633e-4b3e-9bcf-b0a9c5de4a58.jpg) \
+Setup your **Mavis Hub** to install the game. 
 [Guide to Setup]()
-![how-6](https://user-images.githubusercontent.com/102338772/160533067-26e17505-633e-4b3e-9bcf-b0a9c5de4a58.jpg)
-7. Add the 3 Axie you’ve purchased. \
+
+7. ![how-7](https://user-images.githubusercontent.com/102338772/160533065-12dbe8c7-8c2f-46d9-b96e-f5393f362173.jpg) \
+Add the 3 Axie you’ve purchased. \
 After installing of the game client, at the home screen - 
 Tap on “AXIES” at the bottom left.
-![how-7](https://user-images.githubusercontent.com/102338772/160533065-12dbe8c7-8c2f-46d9-b96e-f5393f362173.jpg)
 
-8. Tap "Sync" \
+8. ![how-8](https://user-images.githubusercontent.com/102338772/160533064-a6281f0e-5fb3-4d67-8fe7-9b5225447835.jpg) \ 
+Tap "Sync" \
 On the right hand side, tap “SYNC” to connect your 3 purchased Axies.
-![how-8](https://user-images.githubusercontent.com/102338772/160533064-a6281f0e-5fb3-4d67-8fe7-9b5225447835.jpg)
-9. Set up your team \
+
+9. ![how-9](https://user-images.githubusercontent.com/102338772/160533061-c40f139c-c1da-4d35-a39a-dfcf25419998.jpg) \
+Set up your team \
 Head back to the main page, select “Teams” and assign position for the Axie based on their role. \
 [Team Formation Guide]()
-![how-9](https://user-images.githubusercontent.com/102338772/160533061-c40f139c-c1da-4d35-a39a-dfcf25419998.jpg)
-10. Congratulations you are all set to play \
+
+10. ![how-10](https://user-images.githubusercontent.com/102338772/160533053-952bcda0-10bb-462c-ab31-dca0ae80fe0e.jpg) \
+Congratulations you are all set to play \
 [Want more advance guides?]()
-![how-10](https://user-images.githubusercontent.com/102338772/160533053-952bcda0-10bb-462c-ab31-dca0ae80fe0e.jpg)
