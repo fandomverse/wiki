@@ -124,10 +124,11 @@ Players can sell their Axie on the **Official Marketplace** or buy from other pl
 ![marketplace](https://user-images.githubusercontent.com/102338772/160532799-23fa83af-d819-4bc4-ad80-794cc8620b7c.jpg)
 
 ## How To Get Started
-1. Install **MetaMask** your Chrome browser. \
+1. ![how-1](https://user-images.githubusercontent.com/102338772/160533081-020dc7ab-9f89-4049-9ba9-0c0d73ecb9e2.jpg) \
+Install **MetaMask** your Chrome browser. \
 Skip this step if you have a MetaMask already.\
 [MetaMask Guide]()
-![how-1](https://user-images.githubusercontent.com/102338772/160533081-020dc7ab-9f89-4049-9ba9-0c0d73ecb9e2.jpg)
+
 2. Go to the **Axies Marketplace** to scope out 3 Axie for your team\
 Add the cost of the 3 for the next step.\
 [Guide to build a starting team]()
