@@ -5,7 +5,10 @@ description: An overview of how the game and economy works
 heroImg: https://user-images.githubusercontent.com/102338772/160406112-409b1774-6d89-42d4-be4d-cf851ab8b381.jpg
 play: https://axieinfinity.com/
 tags: 
-
+ - P2E Game
+ - NFT
+ - Axie Infinty
+ - Sky Mavis
 
 ---
 
