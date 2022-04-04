@@ -150,7 +150,7 @@ Add the 3 Axie you've purchased. \
 After installing of the game client, at the home screen - 
 Tap on "AXIES" at the bottom left.
 
-8. ![how-8](https://user-images.githubusercontent.com/102338772/160533064-a6281f0e-5fb3-4d67-8fe7-9b5225447835.jpg) \ 
+8. ![how-8](https://user-images.githubusercontent.com/102338772/160533064-a6281f0e-5fb3-4d67-8fe7-9b5225447835.jpg) \
 Tap "Sync" \
 On the right hand side, tap "SYNC" to connect your 3 purchased Axies.
 
