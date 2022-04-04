@@ -58,17 +58,17 @@ All Axies are unique NFT, meaning their value differs greatly based on traits, s
 ### Stats
 Each Axie has 4 stats, Health, Morale, Skill, and Speed.
 
-Here’s what they do:
+Here's what they do:
 
 HP- The amount of damage your Axie can take before being knocked out.
 
-Morale- Morale increases critical strike chance. It also makes entering last stand more likely and adds more last stand “ticks”.
+Morale- Morale increases critical strike chance. It also makes entering last stand more likely and adds more last stand "ticks".
 
 Skill- Skill adds damage when an Axie plays multiple cards at once (combo). The extra damage is calculated like this: (card attack * skill )/ 500
 
 Speed- Speed determines turn order. Faster Axies attack first. If two Axies have the same speed, this is how attack order is determined: High speed > Low HP > High Skill > High Morale > Low Fighter ID
 
-An Axie’s stats are dependent on two variables: its class and its body parts.
+An Axie's stats are dependent on two variables: its class and its body parts.
 [Stat Guide]()
 
 
@@ -146,17 +146,17 @@ Setup your **Mavis Hub** to install the game.
 [Guide to Setup]()
 
 7. ![how-7](https://user-images.githubusercontent.com/102338772/160533065-12dbe8c7-8c2f-46d9-b96e-f5393f362173.jpg) \
-Add the 3 Axie you’ve purchased. \
+Add the 3 Axie you've purchased. \
 After installing of the game client, at the home screen - 
-Tap on “AXIES” at the bottom left.
+Tap on "AXIES" at the bottom left.
 
 8. ![how-8](https://user-images.githubusercontent.com/102338772/160533064-a6281f0e-5fb3-4d67-8fe7-9b5225447835.jpg) \ 
 Tap "Sync" \
-On the right hand side, tap “SYNC” to connect your 3 purchased Axies.
+On the right hand side, tap "SYNC" to connect your 3 purchased Axies.
 
 9. ![how-9](https://user-images.githubusercontent.com/102338772/160533061-c40f139c-c1da-4d35-a39a-dfcf25419998.jpg) \
 Set up your team \
-Head back to the main page, select “Teams” and assign position for the Axie based on their role. \
+Head back to the main page, select "Teams" and assign position for the Axie based on their role. \
 [Team Formation Guide]()
 
 10. ![how-10](https://user-images.githubusercontent.com/102338772/160533053-952bcda0-10bb-462c-ab31-dca0ae80fe0e.jpg) \
