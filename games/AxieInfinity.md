@@ -131,7 +131,7 @@ Go to the **Axies Marketplace** to scope out 3 Axie for your team\
 Add the cost of the 3 for the next step.\
 [Guide to build a starting team]()
 
-3. ![how-3](https://user-images.githubusercontent.com/102338772/160533077-35833a03-0b35-4ce0-b43b-97f511bbad41.jpg) \ 
+3. ![how-3](https://user-images.githubusercontent.com/102338772/160533077-35833a03-0b35-4ce0-b43b-97f511bbad41.jpg) \
 Purchase Ethereum for the transaction\
 Head to your **MetaMask**, input the total cost for the 3 Axie to buy from USD to ETH.
 
