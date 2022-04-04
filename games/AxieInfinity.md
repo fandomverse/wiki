@@ -9,12 +9,6 @@ tags:
 
 ---
 
-![hero](https://user-images.githubusercontent.com/102338772/160406112-409b1774-6d89-42d4-be4d-cf851ab8b381.jpg)
-
-# Axie Infinty 
-#### An overview of how the game and economy works
-Updated March 24, 2022, 5:30PM
-
 Axie Infinity is a Play-to-Earn game focused on trading and battling with creatures known as "Axies" (characters based on axolotl), which are digitized as NFTs. It was developed by Vietnamese studio Sky Mavis  as a player-owned economy game using the Ethereum-base cryptocurrency. The game was released on March 2018, with huge growing success. Currently, it is a $3Billion valuation with some players have made a living from breeding and selling the digital creatures. The most expensive Axie ever sold $820,000. As of September 2021, the majority of players were based in the Philippines.
 
 Platforms: Android, iOS, Windows, Mac OS
