@@ -47,8 +47,6 @@ SLP (Smooth Love Potion)
 
 [Where to get]()
 
----
-
 ## What are Axies
 Axies a digital pet where players battle, raise, and trade fantasy creatures called Axies. Players can engage in a 3v3 turn base auto-battle using cards as supports. The system is set up similar to classic RPG of using different roles like tanks, DPS and support role with blend of Pokemon elemental strengths and weakness. 
 ![what-are-axies](https://user-images.githubusercontent.com/102338772/160502200-887f2f13-0a84-4e6b-a838-e78651b59286.jpg)
